@@ -10,6 +10,11 @@ Visualization examples of the fitted TnT graph structures:
 
 <img src='images/f3.png' width="1000px"/>
 
+- (Optional) install sknetwork to enable visualization:
+```bash
+pip install scikit-network
+```
+
 
 ## Results
 \# S indicates the number of split nodes, which is an estimate of model complexity.
