@@ -1,6 +1,6 @@
 # Tree in Tree: from Decision Trees to Decision Graphs
 
-This repository is the official implementation of [Tree in Tree: from Decision Trees to Decision Graphs](https://arxiv.org/abs/2110.00392). 
+This repository is the implementation of [Tree in Tree: from Decision Trees to Decision Graphs](https://arxiv.org/abs/2110.00392). 
 
 <img src='images/f1.png' width="600px"/>
 
